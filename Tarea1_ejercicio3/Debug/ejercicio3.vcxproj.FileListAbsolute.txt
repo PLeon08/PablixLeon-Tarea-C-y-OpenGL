@@ -1,0 +1,4 @@
+C:\Users\Usuario\source\repos\ejercicio3\Debug\ejercicio3.exe
+C:\Users\Usuario\source\repos\ejercicio3\Debug\ejercicio3.pdb
+C:\Users\josuc\Downloads\ejercicio3\Debug\ejercicio3.exe
+C:\Users\josuc\Downloads\ejercicio3\Debug\ejercicio3.pdb
